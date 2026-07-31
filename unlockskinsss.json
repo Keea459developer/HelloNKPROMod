@@ -1,0 +1,197 @@
+// Hero đặc biệt
+if (hero == 184)
+{
+    skinValue = 5;
+} // Helen
+
+if (hero == 134)
+{
+    skinValue = 2;
+} // Skud
+
+if (hero == 563)
+{
+    skinValue = 2;
+} // Heino
+
+if (hero == 114)
+{
+    skinValue = 2;
+} // Omega
+
+if (hero == 168)
+{
+    skinValue = 2;
+} // Lumburr
+
+if (hero == 127)
+{
+    skinValue = 2;
+} // Azz'ka
+
+if (hero == 132)
+{
+    skinValue = 15;
+} // Hayate
+
+if (hero == 108)
+{
+    skinValue = 12;
+} // Gildur Okarun
+
+if (hero == 599)
+{
+    skinValue = 3;
+} // Billow Invincible T-Rex
+
+if (hero == 109)
+{
+    skinValue = 17;
+} // Veera My Melody's Love
+
+// เพิ่มจาก JSON
+
+if (hero == 106)
+{
+    skinValue = 20;
+}
+
+if (hero == 111)
+{
+    skinValue = 20;
+}
+
+if (hero == 112)
+{
+    skinValue = 15;
+}
+
+if (hero == 130)
+{
+    skinValue = 11;
+}
+
+if (hero == 136)
+{
+    skinValue = 13;
+}
+
+if (hero == 137)
+{
+    skinValue = 7;
+}
+
+if (hero == 141)
+{
+    skinValue = 11;
+}
+
+if (hero == 142)
+{
+    skinValue = 15;
+}
+
+if (hero == 150)
+{
+    skinValue = 16;
+}
+
+if (hero == 152)
+{
+    skinValue = 17;
+}
+
+if (hero == 156)
+{
+    skinValue = 11;
+}
+
+if (hero == 159)
+{
+    skinValue = 5;
+}
+
+if (hero == 167)
+{
+    skinValue = 11;
+}
+
+if (hero == 171)
+{
+    skinValue = 8;
+}
+
+if (hero == 174)
+{
+    skinValue = 8;
+}
+
+if (hero == 190)
+{
+    skinValue = 16;
+}
+
+if (hero == 199)
+{
+    skinValue = 8;
+}
+
+if (hero == 501)
+{
+    skinValue = 20;
+}
+
+if (hero == 521)
+{
+    skinValue = 14;
+}
+
+if (hero == 524)
+{
+    skinValue = 14;
+}
+
+if (hero == 528)
+{
+    skinValue = 10;
+}
+
+if (hero == 536)
+{
+    skinValue = 12;
+}
+
+if (hero == 538)
+{
+    skinValue = 6;
+}
+
+if (hero == 543)
+{
+    skinValue = 9;
+}
+
+if (hero == 545)
+{
+    skinValue = 7;
+}
+
+if (hero == 548)
+{
+    skinValue = 5;
+}
+
+if (hero == 598)
+{
+    skinValue = 2;
+}
+
+if (hero == 121)
+{
+    skinValue = 8;
+}
+
+if (hero == 144)
+{
+    skinValue = 13;
+}
