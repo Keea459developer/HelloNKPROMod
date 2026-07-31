@@ -1,23 +1,23 @@
-// Hero đặc biệt
+
 if (hero == 184)
 {
     skinValue = 5;
-} // Helen
+}
 
 if (hero == 134)
 {
     skinValue = 2;
-} // Skud
+} 
 
 if (hero == 563)
 {
     skinValue = 2;
-} // Heino
+} 
 
 if (hero == 114)
 {
     skinValue = 2;
-} // Omega
+} 
 
 if (hero == 168)
 {
@@ -27,27 +27,27 @@ if (hero == 168)
 if (hero == 127)
 {
     skinValue = 2;
-} // Azz'ka
+} 
 
 if (hero == 132)
 {
     skinValue = 15;
-} // Hayate
+} 
 
 if (hero == 108)
 {
     skinValue = 12;
-} // Gildur Okarun
+} 
 
 if (hero == 599)
 {
     skinValue = 3;
-} // Billow Invincible T-Rex
+} 
 
 if (hero == 109)
 {
     skinValue = 17;
-} // Veera My Melody's Love
+} 
 
 // เพิ่มจาก JSON
 
