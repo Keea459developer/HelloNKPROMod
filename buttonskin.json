@@ -1,7 +1,7 @@
 [
 {"name":"ค่าเริ่มต้น","id":0},
-{"name":"ปุ่มโจมตี Airi ผู้พิทักษ์ศักดิ์สิทธิ์","id":12},
 {"name":"ปุ่มโจมตี Alice Chibi Moon","id":5},
+{"name":"ปุ่มโจมตี Airi ผู้พิทักษ์ศักดิ์สิทธิ์","id":12},
 {"name":"ปุ่มโจมตี Aoi Mikasa Titan","id":70},
 {"name":"ปุ่มโจมตี Arthur คำปฏิญาณของ Pompompurin","id":58},
 {"name":"ปุ่มโจมตี Aya เจ้าหญิงสายรุ้ง","id":16},
@@ -18,13 +18,12 @@
 {"name":"ปุ่มโจมตี Capheny จ้าวแห่งตำหนักคานหยวน","id":27},
 {"name":"ปุ่มโจมตี Capheny Bugcat Assemble","id":49},
 {"name":"ปุ่มโจมตี Cresht Eren Titan","id":71},
-{"name":"ปุ่มโจมตี Dolia ไดอารี่แห่งความรัก","id":47},
-{"name":"ปุ่มโจมตี Dolia ม้าศึกสวรรค์","id":67},
 {"name":"ปุ่มโจมตี Điêu Thuyền Sailor Moon","id":2},
 {"name":"ปุ่มโจมตี Điêu Thuyền สุริยจันทราศักดิ์สิทธิ์","id":64},
+{"name":"ปุ่มโจมตี Dolia ไดอารี่แห่งความรัก","id":47},
+{"name":"ปุ่มโจมตี Dolia ม้าศึกสวรรค์","id":67},
 {"name":"ปุ่มโจมตี Elandorr Tuxedo Mask","id":3},
 {"name":"ปุ่มโจมตี Elandorr รถไฟแห่งความฝัน","id":53},
-{"name":"ปุ่มโจมตี Enzo Kurapika","id":9},
 {"name":"ปุ่มโจมตี Florentino ยุคอำพัน","id":37},
 {"name":"ปุ่มโจมตี Gildur x Jiji","id":81},
 {"name":"ปุ่มโจมตี Hayate Kaito Kid","id":46},
@@ -74,5 +73,6 @@
 {"name":"ปุ่มโจมตี Yena เทพกวางปราบอสูร","id":31},
 {"name":"ปุ่มโจมตี Yorn Conan Edogawa","id":45},
 {"name":"ปุ่มโจมตี Yue เทพมารบรรพกาล","id":48},
-{"name":"ปุ่มโจมตี Zephys ยุคอำพัน","id":36}
+{"name":"ปุ่มโจมตี Zephys ยุคอำพัน","id":36},
+{"name":"ปุ่มโจมตี Enzo Kurapika","id":9}
 ]
