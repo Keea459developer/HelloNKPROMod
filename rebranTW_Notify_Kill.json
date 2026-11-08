@@ -64,5 +64,8 @@
 {"name":"勇 江戶川柯南","value":11215,"PersonalButtonID":35},
 {"name":"令月 墜天碎冠","value":54507,"PersonalButtonID":48},
 {"name":"貂蟬 永恆水手月亮","value":15212,"PersonalButtonID":4},
-{"name":"貂蟬 馬到神工·迎曦","value":15217,"PersonalButtonID":58}
+{"name":"貂蟬 馬到神工·迎曦","value":15217,"PersonalButtonID":58},
+{"name":"擊殺播報 霧己 紅丸","value":71,"PersonalButtonID":0},
+{"name":"擊殺播報 卡芬妮 ECHO‧琉金","value":68,"PersonalButtonID":0},
+{"name":"擊殺播報 馬洛斯 千魘歸淵","value":65,"PersonalButtonID":0}
 ]
