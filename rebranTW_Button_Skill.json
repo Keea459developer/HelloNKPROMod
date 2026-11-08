@@ -75,5 +75,16 @@
 {"name":"勇 江戶川柯南","value":15021,"PersonalButtonID":45},
 {"name":"令月 墜天碎冠","value":52211,"PersonalButtonID":48},
 {"name":"瑟斐斯 琥珀紀元","value":10709,"PersonalButtonID":36},
-{"name":"銀晝 酷拉皮卡","value":19511,"PersonalButtonID":9}
+{"name":"銀晝 酷拉皮卡","value":19511,"PersonalButtonID":9},
+{"name":"攻擊按鈕 歌芙拉 深沼女巫","value":78,"PersonalButtonID":0},
+{"name":"攻擊按鈕 狂鐵 不死傭兵","value":79,"PersonalButtonID":0},
+{"name":"攻擊按鈕 司空震 維爾德拉‧坦派斯特","value":86,"PersonalButtonID":0},
+{"name":"攻擊按鈕 霧己 紅丸","value":87,"PersonalButtonID":0},
+{"name":"攻擊按鈕 盧蜜亞 朱菜","value":88,"PersonalButtonID":0},
+{"name":"攻擊按鈕 堇 ECHO‧甜杏","value":89,"PersonalButtonID":0},
+{"name":"攻擊按鈕 緋淚 ECHO‧幻紫","value":90,"PersonalButtonID":0},
+{"name":"攻擊按鈕 令月 ECHO‧沫藍","value":91,"PersonalButtonID":0},
+{"name":"攻擊按鈕 卡芬妮 ECHO‧琉金","value":92,"PersonalButtonID":0},
+{"name":"攻擊按鈕 布萊恩 山海‧熾霜斬","value":93,"PersonalButtonID":0},
+{"name":"攻擊按鈕 納克羅斯 踏浪歸","value":95,"PersonalButtonID":0}
 ]
